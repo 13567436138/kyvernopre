@@ -1,1 +1,1 @@
-FROM ghcr.io/kyverno/kyvernopre:v1.6.3
+FROM ghcr.io/kyverno/kyvernopre:v1.11.1
